@@ -53,10 +53,10 @@ Pretty rev slider is an awesome, super lightweight plugin for your wordpress web
 <strong>3. Change background color (put color name or HTML hex color code like #000) </strong>
 <pre>[pretty_slider id="3" arrow_bg_color="black"]</pre>
 
-<strong>4. Title color </strong>
-<pre>[pretty_slider id="4" slider_title_color="16px"]</pre>
+<strong>4. Title color. You can use also HTML hex color code like #000. If you want to awesome flat tui colors go to this <a href="http://flatuicolors.com/"> link</a>  </strong>
+<pre>[pretty_slider id="4" slider_title_color="black"]</pre>
 
-<strong>5. Content color </strong>
+<strong>5. Content color.  You can use also HTML hex color code like #000 </strong>
 <pre>[pretty_slider id="5" slider_content_color="black"]</pre>
 
 <strong>6. Slider radius </strong>
