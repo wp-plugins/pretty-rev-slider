@@ -208,7 +208,8 @@ function pretty_slider_options_framework() {
 		$_REQUEST['updated'] = false; // This checks whether the form has just been submitted. ?>
 
 <div class="wrap admin_panel">
-	
+
+<h1 style="margin-bottom:25px;font-size:22px;font-style:italic">Please go our site there have lot more good plugins <a href="http://plugime.com">Click Here</a></h1>	
 
 <h4 style="font-style:italic">Where you want pretty slider ? just copy the shortcode and paste where you want the pretty slider &nbsp;&nbsp;  [pretty_slider id="1" category="home" ] &nbsp;&nbsp;( atfirst you must create a category. Please go to pretty slider custom post and create category name then put your category name like  &nbsp; category="category name" then you give a unique id in shortcode like id="id number" )</h4>
 	
