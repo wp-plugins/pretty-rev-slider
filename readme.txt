@@ -91,8 +91,7 @@ Yes, Web always ready to assist you. Please visit <a href="http://plugime.com/co
 
 == Screenshots ==
 
-1. First style
-2. Second style
+1. admin-panel
 3. admin-panel-one
 
 
