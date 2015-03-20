@@ -37,6 +37,9 @@ Pretty rev slider is an awesome, super lightweight plugin for your wordpress web
 * Title color 
 * Content color
 * Background color
+* Arrow Background color
+* Bullet radius
+* Middle title and content option
 * Hide plugin option
 * Admin panel with lot of options to change
 * Very lightweight only 35kb
