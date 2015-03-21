@@ -20,7 +20,7 @@ Pretty rev slider is an awesome, super lightweight plugin for your wordpress web
 
 #### * Pretty slider by <a href="http://www.freeurltracker.com/redirect.php?u=plugime&p=17375">plugime.com</a>
 * [See the Live demo!&raquo;](http://www.raihanb.com/premium/pretty-rev-slider)
-
+* [Watch video Tutorial!&raquo;](https://www.youtube.com/watch?v=0PNtRub7kew)
 
 &nbsp;
 
@@ -67,6 +67,10 @@ Pretty rev slider is an awesome, super lightweight plugin for your wordpress web
 
 <strong>7. Slider top bottom color </strong>
 <pre>[pretty_slider id="8" border_top_bottom_color="16px"]</pre>
+
+<strong>See the video how to work</strong> <br>
+https://www.youtube.com/watch?v=0PNtRub7kew
+
 
 == Installation ==
 This section describes how to install the plugin and get it working.
