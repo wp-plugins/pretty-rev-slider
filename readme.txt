@@ -111,7 +111,7 @@ Implementation of basic functionality.
 Please go our site there have lot of good plugins <a href="http://plugime.com"></a>
 
 == CREDIT ==
-1.This plugin was developed by [Abu Sayed]
+1.This plugin was developed by [Easmin]
 
 
 == CONTACT ==
