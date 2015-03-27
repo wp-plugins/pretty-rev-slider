@@ -209,7 +209,7 @@ function pretty_slider_options_framework() {
 
 <div class="wrap admin_panel">
 
-<h1 style="margin-bottom:25px;font-size:22px;font-style:italic">Please go our site there have lot more good plugins <a href="http://plugime.com">Click Here</a></h1>	
+<h1 style="margin-bottom:25px;font-size:22px;font-style:italic">If you want to free our premium version Go to demo site of this plugin then go below you will see a button there have some content "Click here to download free our premium version with lot of good options panel and step by step documentation!" <a href="http://raihanb.com/premium/pretty-rev-slider/">Click Here</a></h1>	
 
 <h4 style="font-style:italic">Where you want pretty slider ? just copy the shortcode and paste where you want the pretty slider &nbsp;&nbsp;  [pretty_slider id="1" category="home" ] &nbsp;&nbsp;( atfirst you must create a category. Please go to pretty slider custom post and create category name then put your category name like  &nbsp; category="category name" then you give a unique id in shortcode like id="id number" )</h4>
 	
