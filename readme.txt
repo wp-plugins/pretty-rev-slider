@@ -17,14 +17,10 @@ Pretty rev slider is an awesome, super lightweight plugin for your wordpress web
 
 <p>You can change Pretty rev slider title color,content color, border radius, Active deactive pretty slider, Slider per page and other settings & by using the options and shortcode of this plugin.</p>
 
+### [Win a $1500 Best Buy Gift Card!&raquo;](http://goo.gl/m0FSia)
 
-* [See the Live demo also if you want to download free our premium version with lot of options panel go to this link  !&raquo;](http://www.freeurltracker.com/redirect.php?u=plugime&p=17675)
-
-&nbsp;
-
-* [Watch video Tutorial!&raquo;](https://www.youtube.com/watch?v=0PNtRub7kew)
-
-&nbsp;
+* [See the Live demo !&raquo;](http://adf.ly/1IHT4M)
+* [Watch video Tutorial!&raquo;](http://adf.ly/1IHTAk)
 
 ### Plugin Features:-
 * Easy installable
